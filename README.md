@@ -1,4 +1,3 @@
-# ukpbx
-UKPBX Images
+# UKPBX Images
 --------------------------------------
 UKPBX Image Pack
